@@ -1,0 +1,15 @@
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\bin\Debug\AnimationLesson28.05.2019.exe.config
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\bin\Debug\AnimationLesson28.05.2019.exe
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\bin\Debug\AnimationLesson28.05.2019.pdb
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019.csprojAssemblyReference.cache
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\MainWindow.g.cs
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\App.g.cs
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019_MarkupCompile.cache
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019_MarkupCompile.lref
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\MainWindow.baml
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019.g.resources
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28._05._2019.Properties.Resources.resources
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019.csproj.GenerateResource.cache
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019.csproj.CoreCompileInputs.cache
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019.exe
+c:\users\адылкановм.corp\source\repos\AnimationLesson28.05.2019\AnimationLesson28.05.2019\obj\Debug\AnimationLesson28.05.2019.pdb
